@@ -1,0 +1,16 @@
+[Window settings for gimp-2.8]
+Description=Window settings for gimp-2.8
+clientmachine=workspace
+clientmachinematch=0
+opacityactive=100
+opacityactiverule=2
+opacityinactive=100
+opacityinactiverule=2
+title=*[Spectacle.jd9409] (imported)-1.0 (RGB color, 3 layers) 1158x856 – GIMP
+titlematch=0
+types=1
+windowrole=gimp-image-window
+windowrolematch=0
+wmclass=gimp-2.8
+wmclasscomplete=false
+wmclassmatch=1

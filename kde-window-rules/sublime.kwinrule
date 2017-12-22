@@ -1,0 +1,16 @@
+[sublime opacity]
+Description=sublime opacity
+clientmachine=workspace
+clientmachinematch=0
+noborder=true
+noborderrule=2
+opacityactive=96
+opacityactiverule=2
+opacityinactive=50
+opacityinactiverule=2
+title=/web/CatShop/database/migrations/2016_12_15_041353_create_commission_nodes_table.php (CatShop) - Sublime Text
+titlematch=0
+types=1
+wmclass=sublime_text.orig sublime_text.orig
+wmclasscomplete=true
+wmclassmatch=1
