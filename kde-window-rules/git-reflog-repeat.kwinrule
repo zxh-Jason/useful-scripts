@@ -1,0 +1,21 @@
+[git reflog repeat]
+Description=git reflog repeat
+above=true
+aboverule=2
+maximizevert=true
+maximizevertrule=2
+position=3540,0
+positionrule=2
+size=1400,1080
+sizerule=2
+skippager=true
+skippagerrule=2
+skipswitcher=true
+skipswitcherrule=2
+skiptaskbar=true
+skiptaskbarrule=2
+title=gitreflogrepeat
+titlematch=3
+wmclass=konsole
+wmclasscomplete=false
+wmclassmatch=1
