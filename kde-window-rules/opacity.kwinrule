@@ -1,0 +1,12 @@
+[opacity]
+Description=opacity
+opacityactive=94
+opacityactiverule=2
+opacityinactive=69
+opacityinactiverule=2
+title=(?!desktop)
+titlematch=3
+types=1
+wmclass=
+wmclasscomplete=false
+wmclassmatch=0
