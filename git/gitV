@@ -1,0 +1,6 @@
+#!/bin/bash
+konsole -e 'gittreerepeat 81'
+konsole -e 'gitreflogrepeat 81'
+konsole -e gitbranchrepeat
+konsole -e gitstatusrepeat
+

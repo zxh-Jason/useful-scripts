@@ -1,0 +1,2 @@
+#!/bin/bash
+repeat 'git tree' $1
