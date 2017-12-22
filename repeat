@@ -1,0 +1,39 @@
+#!/usr/bin/env php
+<?php
+
+echo `clear`;
+
+echo "\033[s";
+
+if( $argv[2] )
+{
+	if( $argv[3] )
+	{
+		$a= $argv[2]*$argv[2];
+		$b= $argv[2];
+		while( true )
+		{
+			echo "\033[u\033[J";
+
+			echo `$argv[1]|head -n $a|tail -n $b`;
+
+			sleep( 1 );
+		}
+	}else{
+		while( true )
+		{
+			echo "\033[u\033[J";
+
+			echo `$argv[1]|head -n $argv[2]`;
+
+			sleep( 1 );
+		}
+	}
+}else{
+	while( true )
+	{
+		echo "\033[u\033[J";
+		echo `$argv[1]`;
+		sleep( 1 );
+	}
+}
