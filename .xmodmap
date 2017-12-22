@@ -1,0 +1,8 @@
+!keycode  38 = Tab Tab Tab Tab
+!keycode  39 = Meta_L NoSymbol Meta_L
+!keycode  40 = Shift_L NoSymbol Shift_L
+
+
+keycode  38 = a A a A
+keycode  39 = o O o O
+keycode  40 = e E e E
