@@ -1,0 +1,24 @@
+[gitbranch repeat]
+Description=gitbranch repeat
+below=true
+belowrule=2
+clientmachine=localhost
+clientmachinematch=0
+noborder=true
+noborderrule=2
+position=3516,1620
+positionrule=2
+size=400,522
+sizerule=2
+skippager=true
+skippagerrule=2
+skipswitcher=true
+skipswitcherrule=2
+skiptaskbar=true
+skiptaskbarrule=2
+title=gitbranchrepeat
+titlematch=2
+types=1
+wmclass=konsole
+wmclasscomplete=false
+wmclassmatch=1
