@@ -1,0 +1,26 @@
+[git status repeat]
+Description=git status repeat
+above=true
+aboverule=2
+clientmachine=localhost
+clientmachinematch=0
+maximizevert=true
+maximizevertrule=2
+noborder=true
+noborderrule=2
+position=880,0
+positionrule=2
+size=500,540
+sizerule=2
+skippager=true
+skippagerrule=2
+skipswitcher=true
+skipswitcherrule=2
+skiptaskbar=true
+skiptaskbarrule=2
+title=gitstatusrepeat
+titlematch=2
+types=1
+wmclass=konsole
+wmclasscomplete=false
+wmclassmatch=1
