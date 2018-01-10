@@ -6,8 +6,8 @@
 	c= commit -m
 	cc= commit
 	c-= commit --amend
-	commit-with-add= !git add . && git commit -m a
-	ca= !git add . && git commit -m a
+	commit-with-add= !git add -A . && git commit -m a
+	ca= !git add -A. && git commit -m a
 	cf= clean -df
 	a= add
 	addpick= add -p
@@ -41,10 +41,9 @@
 	rbh= reset --hard HEAD^
 	m= merge --no-ff
 	mff= merge --ff-only
-	mt= !git-merge-to
 	checkoutmerge= checkout --merge
 	om= checkout --merge
-	b= git branch
+	b= branch
 	branchall= branch -a
 	ba= branch -a
 	branchmove= branch -m
@@ -87,4 +86,3 @@
 	unignore= update-index --no-assume-unchanged
 	ui= update-index --no-assume-unchanged
 	rv= remote -v
-	store= !gitstore
